@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਬਸ ਜਾਵਾ</string>
+    <string name="name">ਨਾਮ</string>
+    <string name="toppings">ਟੌਪਿੰਗਸ</string>
+    <string name="whippedCream">ਕੋਰੜੇ ਕਰੀਮ</string>
+    <string name="chocolate">ਚਾਕਲੇਟ</string>
+    <string name="quantity">ਮਾਤਰਾ</string>
+    <string name="orderSummary">ਆਰਡਰ ਸੰਖੇਪ</string>
+    <string name="order">ਆਰਡਰ</string>
+    <string name="mailOrder">ਮੇਲ ਆਰਡਰ</string>
+    <string name="upper_limit">ਤੁਸੀਂ 100 ਤੋਂ ਵੱਧ ਆਰਡਰ ਨਹੀਂ ਕਰ ਸਕਦੇ|</string>
+    <string name="lower_limit">ਤੁਸੀਂ 1 ਤੋਂ ਘੱਟ ਆਰਡਰ ਨਹੀਂ ਕਰ ਸਕਦੇ|</string>
+    <string name="customer_name">ਨਾਮ: </string>
+    <string name="thank_you">ਤੁਹਾਡਾ ਧੰਨਵਾਦ!!</string>
+    <string name="addWhippedCream">ਕੋਰੜੇ ਕਰੀਮ ਸ਼ਾਮਲ ਕਰੋ?</string>
+    <string name="addChocolate">ਚਾਕਲੇਟ ਸ਼ਾਮਲ ਕਰੋ?</string>
+    <string name="quantityreq">ਮਾਤਰਾ:</string>
+    <string name="cost">ਕੁੱਲ: ₹</string>
+    <string name="subject">ਬਸ ਜਾਵਾ ਲਈ </string>
+</resources>
